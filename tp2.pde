@@ -1,3 +1,4 @@
+//Jose Ignacio Oña Ortiz  legajo: 81887/7
 PFont font1 ;
 int Y =-1;
 int X=800/2;
